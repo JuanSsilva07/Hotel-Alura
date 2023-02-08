@@ -12,3 +12,7 @@ O projeto Hotel Alura foi realizado como último desafio de projeto prático, qu
 - MySql
 - Library JCalendar
 - Plugin WindowBuilder
+
+Badge earned by Oracle:
+
+![badge desafio6](https://user-images.githubusercontent.com/70165034/217565454-59978f05-6b68-44a6-8115-afa0254c7d30.png)
